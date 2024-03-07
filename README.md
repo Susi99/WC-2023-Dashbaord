@@ -1,3 +1,13 @@
+# Hello,👋
+
+Welcome to my GitHub profile! I'm [Susi], a passionate [Junior Data Analyst] from [Chennai]. Here you'll find some of my projects and contributions.
+
+## 🚀 Quick Links
+- [LinkedIn](https://www.linkedin.com/in/susee-m/)
+
+## 📚 About Me
+
+I'm a [Data Analyst] with a love for [Learnig new skills]. I enjoy creating a dashboards in [Power BI and Tableau], exploring new technologies, and solving problems.
 
 # 2023 Cricket World Cup Dashboard 🏏🏆
 
@@ -16,3 +26,9 @@ detailed match statistics, player performance analysis, and much more. Whether y
 - Player performance analysis
 - Historical data and records
 - Interactive visualizations
+
+## 💼 Other Projects
+
+Here are some projects I'm proud of:
+1. Player 11 🌱(https://github.com/Susi99/PowerBI-11Palyers.git)
+2. HR Dashboard 🌱 (https://github.com/Susi99/HR-Dashboard.git)
